@@ -52,12 +52,19 @@
 <details open>
 <summary><b>⚡ My GitHub Performance</b></summary>
 <br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=chiragtyagi01&theme=gotham&hide_border=false&include_all_commits=true&count_private=true" width="450" />
-<br/>
-<img src="https://streak-stats.demolab.com/?user=chiragtyagi01&theme=gotham&hide_border=false" width="450" />
-<br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chiragtyagi01&layout=compact&hide_border=false&title_color=61dafb&text_color=ffffff&bg_color=0d1117" width="450" />
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=chiragtyagi01&theme=gotham&hide_border=false&include_all_commits=true&count_private=true" width="450" />
+    </td>
+    <td>
+      <img src="https://streak-stats.demolab.com/?user=chiragtyagi01&theme=gotham&hide_border=false" width="450" />
+    </td>
+  </tr>
+</table>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chiragtyagi01&layout=compact&hide_border=false&title_color=61dafb&text_color=ffffff&bg_color=0d1117" width="450" />
+</div>
 </details>
 
 ## Support My Work
