@@ -1,7 +1,7 @@
 ![OpBento](https://firebasestorage.googleapis.com/v0/b/smartkaksha-fe32c.appspot.com/o/opbento%2Fchiragtyagi01a5f3e.png?alt=media)
 <div align="center">
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=800&size=31&duration=2000&pause=80&color=Dc143c&center=true&multiline=true&repeat=false&width=700&height=117&lines=Hi%2C+I'm+Chirag+Tyagi!;A+Passionate+Full+Stack+Developer;Based+in+Greater+Noida%2C+India" alt="Typing SVG - Hi, I'm Chirag Tyagi! A Passionate Full Stack Developer; Based in Greater Noida, India"/>
+        <img src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=800&size=31&duration=2000&pause=80&color=Dc143c&center=true&multiline=true&repeat=false&width=700&height=117&lines=Hi%2C+I'm+Chirag+Tyagi!;A+Passionate+Full+Stack+Developer;Based+in+Greater+Noida%2C+India" alt="Typing SVG - Hi, I'm Chirag Tyagi! A Passionate Full Stack Developer; Based in Greater Noida, India"/>
     </a>
 </div>
 <br/>
