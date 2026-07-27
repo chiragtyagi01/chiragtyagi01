@@ -1,81 +1,66 @@
-![OpBento](https://firebasestorage.googleapis.com/v0/b/smartkaksha-fe32c.appspot.com/o/opbento%2Fchiragtyagi01a5f3e.png?alt=media)
-<div align="center">
-    <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=800&size=31&duration=2000&pause=80&color=Dc143c&center=true&multiline=true&repeat=false&width=700&height=117&lines=Hi%2C+I'm+Chirag+Tyagi!;A+Passionate+Full+Stack+Developer;Based+in+Greater+Noida%2C+India" alt="Typing SVG - Hi, I'm Chirag Tyagi! A Passionate Full Stack Developer; Based in Greater Noida, India"/>
-    </a>
-</div>
-<br/>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=Chiragtyagi01&label=Profile%20views&color=0e75b6&style=flat" alt="Chiragtyagi01" /> </p>
+<h1 align="center">
+   <a href="https://github.com/Chiragtyagi01"><img src="https://readme-typing-svg.demolab.com?font=Righteous&weight=500&size=35&duration=4000&pause=0200&center=true&vCenter=true&random=false&width=600&height=70&lines=Hi+There!+%F0%9F%91%8B;I%27m+Chirag+Tyagi;Full-Stack+Web+Developer;" alt="Typing SVG" /></a>
+</h1>
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/ichiragtyagi/" target="_blank" rel="noreferrer nofollow">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>&nbsp;
-  <a href="https://twitter.com/I_am_Chirag28" target="_blank" rel="noreferrer nofollow">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter/X"/>
-  </a>&nbsp;
-  <a href="https://hashnode.com/@ChiragTyagi" target="_blank" rel="noreferrer nofollow">
-    <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode"/>
-  </a>&nbsp;
-  <a href="mailto:chiragtyagiofficial@gmail.com" target="_blank" rel="noreferrer nofollow">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+<h3 align="center">A Full-Stack Web Developer & Software Engineer from India 🇮🇳</h3>
+
+
+   <img align="right" alt="Coding" width="300" height="280"   src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
+- 🔭 I’m currently working on **scaling full-stack MERN platforms and Next.js applications with PostgreSQL**
+
+- 🌱 I’m currently learning **Next.js and Advanced Data Structures & Algorithms in Java**
+
+- 📫 How to reach me: **chiragtyagiofficial@gmail.com**
+
+- 👨‍💻 All of my projects are available at [Github](https://github.com/Chiragtyagi01)
+
+- 💬 Ask me about **MERN Stack, Next.js, and Data Structures & Algorithms**
+
+- 📄 Know about my experiences [here](https://www.linkedin.com/in/ichiragtyagi/)
+<br></br>
+
+<h3 align="left">Connect with me:</h3>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<p align="left">
+  <a href="mailto:chiragtyagiofficial@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank" />
   </a>
+  <a href="https://www.linkedin.com/in/ichiragtyagi/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=javascript,ts,java,html,css,tailwind,react,next,nodejs,express,mongodb,postgres,firebase,vercel,mysql" />
+  <br />
+  <br />
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,postman,notion" /> 
+</p>
+
+<br></br>
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width ="25"> &ensp;<b> Stats </b>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<div align=center>
+  <img width=330 src="https://github-stats-extended.vercel.app/api/top-langs/?username=Chiragtyagi01&langs_count=8&layout=compact&theme=transparent&border_radius=10&hide_border=true" alt="top langs" />
+  <img width=440  src="https://github-stats-extended.vercel.app/api?username=Chiragtyagi01&count_private=true&show_icons=true&theme=transparent&rank_icon=github&hide_border=true&border_radius=10" alt="readme stats" />
+  <img width=440 src="https://streak-stats.demolab.com/?user=Chiragtyagi01&theme=dark&background=transparent&hide_border=true" alt="streak stats" />
+   
 </div>
-<br/>
-
-<details open>
-<summary><b>🛠️ Skills & Tools</b></summary>
-<br>
-
-### Languages
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)&nbsp;
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)&nbsp;
-
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)&nbsp;
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
-
-### Tools & DevOps
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)&nbsp;
-
-</details>
-
-
-<details open>
-<summary><b>⚡ My GitHub Performance</b></summary>
-<br>
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=chiragtyagi01&theme=gotham&hide_border=false&include_all_commits=true&count_private=true" width="450" />
-    </td>
-    <td>
-      <img src="https://streak-stats.demolab.com/?user=chiragtyagi01&theme=gotham&hide_border=false" width="450" />
-    </td>
-  </tr>
-</table>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chiragtyagi01&layout=compact&hide_border=false&title_color=61dafb&text_color=ffffff&bg_color=0d1117" width="450" />
-</div>
-</details>
-
-## Support My Work
-<div align="left">
-  <a href="https://buymeacoffee.com/chiragtyagi" target="_blank" rel="noreferrer nofollow">
-    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support-darkgreen?style=for-the-badge&logo=buymeacoffee&logoColor=white" alt="Buy Me A Coffee" />
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="game.gif" />
+    <source media="(prefers-color-scheme: light)" srcset="game.gif" />
+    <img alt="Space Shooter Game" src="game.gif" />
+  </picture>
 </div>
 
-### Random Dev Quote
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
-    <div align="center">
+<br></br>
+### ✍️ Random Dev Quote
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chiragtyagi01&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> </p>
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
